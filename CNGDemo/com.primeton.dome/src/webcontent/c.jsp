@@ -5,16 +5,18 @@
 <html>
 <!-- 
   - Author(s): fyx
-  - Date: 2017-06-05 12:38:37
+  - Date: 2017-06-05 15:37:06
   - Description:
 -->
 <head>
-<title>a</title>
+<title>c</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <script src="<%= request.getContextPath() %>/common/nui/nui.js" type="text/javascript"></script>
     
 </head>
 <body>
+dfdfd
+
 
 	<script type="text/javascript">
     	nui.parse();
